@@ -1,9 +1,0 @@
-D:\CoffeeShop\DTO\bin\Debug\DTO.dll
-D:\CoffeeShop\DTO\bin\Debug\DTO.pdb
-D:\CoffeeShop\DTO\obj\Debug\DTO.dll
-D:\CoffeeShop\DTO\obj\Debug\DTO.pdb
-D:\OU-Ltcsdl\CoffeeShop\DTO\bin\Debug\DTO.dll
-D:\OU-Ltcsdl\CoffeeShop\DTO\bin\Debug\DTO.pdb
-D:\OU-Ltcsdl\CoffeeShop\DTO\obj\Debug\DTO.dll
-D:\OU-Ltcsdl\CoffeeShop\DTO\obj\Debug\DTO.pdb
-D:\OU-Ltcsdl\CoffeeShop\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
