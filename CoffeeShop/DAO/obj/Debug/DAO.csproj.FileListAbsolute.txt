@@ -1,0 +1,10 @@
+D:\CoffeeShop\CoffeeShop\bin\Debug\DAO.dll
+D:\CoffeeShop\CoffeeShop\bin\Debug\DAO.pdb
+D:\CoffeeShop\DAO\obj\Debug\DAO.dll
+D:\CoffeeShop\DAO\obj\Debug\DAO.pdb
+D:\CoffeeShop\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\OU-Ltcsdl\CoffeeShop\CoffeeShop\bin\Debug\DAO.dll
+D:\OU-Ltcsdl\CoffeeShop\CoffeeShop\bin\Debug\DAO.pdb
+D:\OU-Ltcsdl\CoffeeShop\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\OU-Ltcsdl\CoffeeShop\DAO\obj\Debug\DAO.dll
+D:\OU-Ltcsdl\CoffeeShop\DAO\obj\Debug\DAO.pdb
